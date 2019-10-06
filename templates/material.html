@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+    <!-- Material section -->
+    <div class="container" id="material">
+      <div class="row">
+        <div class="col-md-12 mb-5">
+          <h2>Material</h2>
+          <hr>
+          <p>A continuación podrás encontrar el material a utilizar durante del curso.</p>
+          <h4>Software</h4>
+          <a href="https://mega.nz/#!F1MkFQQQ!hKMarb3biegBY3_wPYw9WWeI4SpuoGsKI-s1u5ZKB7Y" target="_blank"><button type="button" class="btn btn-success">Material</button></a>
+          <a href="https://www.tinkercad.com" target="_blank"><button type="button" class="btn btn-success">Tinkercad</button></a>
+          <a href="https://www.arduino.cc/download.php?f=/arduino-nightly-windows.zip" target="_blank"><button type="button" class="btn btn-success">Arduino IDE p/Windows</button></a>
+          <a href="https://www.arduino.cc/download.php?f=/arduino-nightly-macosx.zip" target="_blank"><button type="button" class="btn btn-success">Arduino IDE p/Mac</button></a>
+        </div>
+        {% for item in material %}
+        {% if item.visible %}
+        <div class="col-md-4 mb-5">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="card-title">{{ item.title }}</h3>
+              <h5 class="card-title">{{ item.subtitle }}</h5>
+              <p class="card-text">{{ item.description }}</p>
+            </div>
+            <div class="card-footer">
+              <a href="{{ item.download }}" class="btn btn-primary float-right" target="
+              ">Descargar material</a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+{% endblock %}
