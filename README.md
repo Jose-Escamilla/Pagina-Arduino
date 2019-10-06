@@ -1,2 +1,2 @@
 # Pagina-Arduino
- impartido durante la semana de ingenierías 2019 en el Tecnológico de León Campus 2.
+ Curso impartido durante la semana de ingenierías 2019 en el Tecnológico de León Campus 2.
