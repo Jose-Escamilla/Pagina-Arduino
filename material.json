@@ -3,36 +3,36 @@
     "title": "Módulo 1",
     "subtitle": "Introducción, setup y web.",
     "description": "Web del curso, instalación de requerimientos e introducción al curso y primer circuito.",
-    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%201.zip",
+    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/02e6317feea3fded5a91f67c065b480ca5d1071c/static/assets/M%C3%B3dulo_1_2021.rar",
     "visible": True
   },
   {
     "title": "Módulo 2",
     "subtitle": "Puertos digitales y uso de puerto analógico.",
     "description": "Secuencias con leds y uso de puerto analógico.",
-    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%202.zip",
+    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/02e6317feea3fded5a91f67c065b480ca5d1071c/static/assets/M%C3%B3dulo_2_2021.rar",
     "visible": True
   },
   {
     "title": "Módulo 3",
     "subtitle": "Puertos analógicos para controlar resistencias y fotoresistencias.",
-    "description": "Encendido de leds con puerts analógicos usando resistencias variables(se agregan 2 codigos más como tarea para el jueves).",
-    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%203.zip",
+    "description": "Encendido de leds con puertos analógicos usando diferentes sensores.",
+    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo_3_2021.rar",
     "visible": True
   },
   {
-    "title": "Módulo 4",
-    "subtitle": "Servomotor, Lm35 y LCD16x2",
-    "description": "Se realizaron ejemplos de control de PWM, como usar el Lm35, como leer el Datasheet y como modificar el contraste de LCD16x2.",
-    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%204.zip",
-    "visible": True
+    //"title": "Módulo 4",
+    //"subtitle": "Servomotor, Lm35 y LCD16x2",
+    //"description": "Se realizaron ejemplos de control de PWM, como usar el Lm35, como leer el Datasheet y como modificar el contraste de LCD16x2.",
+    //"download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%204.zip",
+    //"visible": True
   },
   {
-    "title": "Módulo 5",
-    "subtitle": "LCD16x2 y cierre",
-    "description": "Creacion de circuitos con LCD16x2 y cierre de curso (se añade un circuto de regalo).",
-    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%205.zip",
-    "visible": True
+    //"title": "Módulo 5",
+    //"subtitle": "LCD16x2 y cierre",
+    //"description": "Creacion de circuitos con LCD16x2 y cierre de curso (se añade un circuto de regalo).",
+    //"download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%205.zip",
+    //"visible": True
   },
   {
     //"title": "Módulo 6",
