@@ -15,17 +15,17 @@
   },
   {
     "title": "Módulo 3",
-    "subtitle": "Puertos analógicos para controlar resistencias y fotoresistencias.",
+    "subtitle": "Puertos analógicos para controlar fotoresistencias y Piezo.",
     "description": "Encendido de leds con puertos analógicos usando diferentes sensores.",
     "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo_3_2021.rar",
     "visible": True
   },
   {
-    //"title": "Módulo 4",
-    //"subtitle": "Servomotor, Lm35 y LCD16x2",
-    //"description": "Se realizaron ejemplos de control de PWM, como usar el Lm35, como leer el Datasheet y como modificar el contraste de LCD16x2.",
-    //"download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo%204.zip",
-    //"visible": True
+    "title": "Módulo 4",
+    "subtitle": "Uso de LCD16x2 y Lm35",
+    "description": "Como modificar el contraste de LCD16x2 entre otros ejemplos.",
+    "download": "https://github.com/Jose-Escamilla/Pagina-Arduino/raw/master/static/assets/M%C3%B3dulo_4_2021.rar",
+    "visible": True
   },
   {
     //"title": "Módulo 5",
